@@ -1,5 +1,6 @@
 from src.utils import Vehicle
 
+import numpy as np
 import matplotlib.pyplot as plt
 
 def main():
